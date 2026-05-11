@@ -84,20 +84,6 @@ My current technical focus includes:
 
 ---
 
-## 🚀 Featured Portfolio Projects
-
-These repositories are being built as practical infrastructure labs and documentation-based technical portfolio projects.
-
-| Project | Description | Main Topics |
-|---|---|---|
-| **enterprise-network-lab** | Enterprise network topology with VLANs, inter-VLAN routing, OSPF, DHCP relay and troubleshooting notes | Cisco, VLAN, OSPF, DHCP |
-| **fortigate-security-lab** | Firewall policies, NAT, VPN, DMZ design and basic security hardening scenarios | FortiGate, VPN, Security |
-| **windows-server-ad-lab** | Active Directory, DNS, DHCP, GPO and domain join troubleshooting lab | Windows Server, AD, DNS |
-| **docker-selfhosted-stack** | Docker-based self-hosted infrastructure with reverse proxy, monitoring and secure access concepts | Docker, Linux, Reverse Proxy |
-| **n8n-it-automation-workflows** | IT operations workflows for alerting, reporting and AI-assisted automation | n8n, REST API, Automation |
-
----
-
 ## 📚 Certifications & Training
 
 - Cisco CCNAv7: Enterprise Networking, Security and Automation
@@ -108,30 +94,6 @@ These repositories are being built as practical infrastructure labs and document
 - Cisco: IT Customer Support Basics
 - Cisco: Introduction to Modern AI
 - TalentCoders: Applied AI Training
-
----
-
-## 🧩 Portfolio Roadmap
-
-| Phase | Goal | Status |
-|---|---|---|
-| Phase 1 | Profile README, bio optimization and links | In Progress |
-| Phase 2 | Enterprise network, FortiGate and Windows Server labs | Planned |
-| Phase 3 | Docker, self-hosted infrastructure and monitoring labs | Planned |
-| Phase 4 | n8n, PowerShell, Bash and Python automation workflows | Planned |
-| Phase 5 | LinkedIn, Medium and website integration | Planned |
-
----
-
-## 📌 Next Repositories
-
-| Repository | Purpose |
-|---|---|
-| **enterprise-network-lab** | To document routing, switching, VLAN, OSPF and DHCP relay labs |
-| **fortigate-security-lab** | To document firewall policies, VPN, NAT and DMZ scenarios |
-| **windows-server-ad-lab** | To document Active Directory, DNS, DHCP, GPO and troubleshooting scenarios |
-| **docker-selfhosted-stack** | To document Docker-based self-hosted infrastructure examples |
-| **n8n-it-automation-workflows** | To document practical IT automation and AI-assisted workflows |
 
 ---
 
